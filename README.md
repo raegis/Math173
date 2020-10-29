@@ -1,2 +1,3 @@
-==Math 173 Fall 2020 Examples==
+Math 173 Fall 2020 Examples
+===========================
 
